@@ -1,7 +1,7 @@
 # Simple Nmap Bash Scanner
 
 ## Overview
-This is a beginner-friendly automated network scanning tool using **Nmap** and **Bash scripting**. It performs a series of basic scans on a target IP address or domain and saves the results in a structured format. Ideal for students or cybersecurity beginners looking to understand how network reconnaissance is done.
+This is a beginner-friendly automated network scanning tool using **Nmap** and **Bash scripting**. It performs a series of basic scans on a target domain and saves the results in a structured format.
 
 ## Features
 - Accepts a target IP or domain.
