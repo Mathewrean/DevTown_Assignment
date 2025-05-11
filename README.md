@@ -19,7 +19,7 @@ This is a beginner-friendly automated network scanning tool using **Nmap** and *
    - Ping Scan: Checks if the host is online.
    - Port Scan: Scans all ports.
    - OS & Service Version Detection: Attempts to identify the OS and running services.
-4. All output is saved to a timestamped `.txt` file in the `results/` folder.
+4. All output is saved to a timestamped `.txt` file in the `results/` folder that will be created automatically when the file is runned.
 
 ## Usage
 
