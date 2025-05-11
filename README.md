@@ -30,7 +30,7 @@ This is a beginner-friendly automated network scanning tool using **Nmap** and *
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nmap-bash-scanner.git
+   git clone https://github.com/Mathewrean/nmap-bash-scanner.git
    cd nmap-bash-scanner
 2. Make the script executable
    ```bash
