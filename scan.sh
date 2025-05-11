@@ -8,6 +8,7 @@ read -p "Enter the target IP or domain: " target
 safe_target=$(echo "$target" | tr '/ ' '__')
 
 filename="results/${safe_target}_scan.txt"
+mkdir -p results
 
 echo "Scanning host: $target"
 echo "Results will be saved in $filename"
